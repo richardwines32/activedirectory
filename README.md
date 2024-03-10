@@ -92,7 +92,7 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 
 <p>
 <br /> 
-3. Install Active DirectoryLogin to DC-1 and install Active Directory Domain Services
+3. Install Active Directory. Login to DC-1 and install Active Directory Domain Services
 </p>
 
 <p>
