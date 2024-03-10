@@ -43,10 +43,11 @@ Take note of the Resource Group and Virtual Network (Vnet) that get created at t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" alt="Screenshot 2024-03-09 at 7 31 53 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/17d03851-4f16-4c80-8b26-2c247fea884b">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create the Client VM (Windows 10) named “Client-1”. Use the same Resource Group and Vnet.
 </p>
 <br />
 
