@@ -62,11 +62,12 @@ Set Domain Controller’s NIC Private IP address to be static
 <p>
 <img width="1512" alt="Screenshot 2024-03-09 at 7 58 33 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/10741807-c4e1-427b-bc9e-3dae14c1f978">
 </p>
+<br />
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
