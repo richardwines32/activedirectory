@@ -58,6 +58,8 @@ Take note of the Resource Group and Virtual Network (Vnet) that get created at t
 <br />
 
 <p>
+Set Domain Controller’s NIC Private IP address to be static
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
