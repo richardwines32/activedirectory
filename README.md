@@ -31,6 +31,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 <img width="1512" alt="Screenshot 2024-03-09 at 7 23 39 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/e46d3870-d75f-4288-8768-81d84db47418">
+<img width="1512" alt="Screenshot 2024-03-09 at 7 25 48 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/5190f4a6-41e3-4cd2-9f11-495c81d1fd0a">
 
 </p>
 <p>
