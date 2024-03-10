@@ -29,26 +29,30 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
+Setup Resources in Azure: 
+Create the Domain Controller VM (Windows Server 2022) named “DC-1”.
+Take note of the Resource Group and Virtual Network (Vnet) that get created at this time.
+
 <p>
 <img width="1512" alt="Screenshot 2024-03-09 at 7 23 39 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/e46d3870-d75f-4288-8768-81d84db47418">
 <img width="1512" alt="Screenshot 2024-03-09 at 7 25 48 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/5190f4a6-41e3-4cd2-9f11-495c81d1fd0a">
 
 </p>
 <p>
-Setup Resources in Azure: 
-Create the Domain Controller VM (Windows Server 2022) named “DC-1”.
-Take note of the Resource Group and Virtual Network (Vnet) that get created at this time.
+
 
 </p>
 <br />
-
+</p>
+Create the Client VM (Windows 10) named “Client-1”. Use the same Resource Group and Vnet.
 <p>
+</p>  
 <img width="1512" alt="Screenshot 2024-03-09 at 7 31 53 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/17d03851-4f16-4c80-8b26-2c247fea884b">
 <img width="1512" alt="Screenshot 2024-03-09 at 7 41 54 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/9fe9b92f-9ccc-479d-966b-12c1b7c185a8">
 
 </p>
 <p>
-Create the Client VM (Windows 10) named “Client-1”. Use the same Resource Group and Vnet.
+
 </p>
 <br />
 
