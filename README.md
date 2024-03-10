@@ -44,6 +44,7 @@ Take note of the Resource Group and Virtual Network (Vnet) that get created at t
 
 <p>
 <img width="1512" alt="Screenshot 2024-03-09 at 7 31 53 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/17d03851-4f16-4c80-8b26-2c247fea884b">
+<img width="1512" alt="Screenshot 2024-03-09 at 7 41 54 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/9fe9b92f-9ccc-479d-966b-12c1b7c185a8">
 
 </p>
 <p>
