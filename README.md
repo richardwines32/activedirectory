@@ -68,32 +68,32 @@ Take note of the Resource Group and Virtual Network (Vnet) that get created at t
 2)Ensure Connectivity between the client and Domain Controller.  Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping).
 </p>
 <br />
+
+<p>
+Notice ping has timed out because DC-1's firewall is blocking it.
+<br />
+</p>
+<br />
 <p>
 <img width="1512" alt="Screenshot 2024-03-09 at 8 24 50 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/e456a7c7-6b86-47db-91a9-da7c6082ec56">
 </p>
-<p>
-Notice ping has timed out because DC-1's firewall is blocking it.
-</p>
 <br />
-
-
-
 <p>
 2B. Login to the Domain Controller and enable ICMPv4 in on the local windows Firewall.
-</p>
 <br />
-
+</p>
 <p>
  <img width="1512" alt="Screenshot 2024-03-09 at 8 35 59 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/dcf193d9-a6ac-495a-93e0-62226d907cdc">
  </p>
+
+<br />
 <p>
 Notice the ping is now getting a response after configuring DC-1's firewall.
 </p>
-<br />
-
 <p>
 <img width="1512" alt="Screenshot 2024-03-09 at 8 36 11 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/7afbbdcb-9340-4ba4-bf70-ad26daac717a">
 </p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
