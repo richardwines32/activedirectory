@@ -67,13 +67,9 @@ Take note of the Resource Group and Virtual Network (Vnet) that get created at t
 <p>
 2)Ensure Connectivity between the client and Domain Controller.  Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping).
 </p>
-<br />
-
 <p>
 Notice ping has timed out because DC-1's firewall is blocking it.
-<br />
 </p>
-<br />
 <p>
 <img width="1512" alt="Screenshot 2024-03-09 at 8 24 50 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/e456a7c7-6b86-47db-91a9-da7c6082ec56">
 </p>
