@@ -58,7 +58,7 @@ Take note of the Resource Group and Virtual Network (Vnet) that get created at t
 <br />
 
 <p>
-Set Domain Controller’s NIC Private IP address to be static
+1B. Set Domain Controller’s NIC Private IP address to be static
 <p>
 <img width="1512" alt="Screenshot 2024-03-09 at 7 58 33 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/10741807-c4e1-427b-bc9e-3dae14c1f978">
 </p>
