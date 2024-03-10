@@ -33,9 +33,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Setup Resources in Azure
-Create the Domain Controller VM (Windows Server 2022) named “DC-1”
-Take note of the Resource Group and Virtual Network (Vnet) that get created at this time
+Setup Resources in Azure: 
+Create the Domain Controller VM (Windows Server 2022) named “DC-1”.
+Take note of the Resource Group and Virtual Network (Vnet) that get created at this time.
 
 </p>
 <br />
