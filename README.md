@@ -125,9 +125,9 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 <img width="1512" alt="Screenshot 2024-03-11 at 3 13 39 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/2d26e3e3-8114-40b9-83e3-fea8628b02fa">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br /> 
+4A.  Create a new OU named “_ADMINS”. 
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
