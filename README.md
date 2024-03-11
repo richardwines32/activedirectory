@@ -116,9 +116,10 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 <img width="1512" alt="Screenshot 2024-03-11 at 3 03 53 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/fbc843e7-24c8-40a9-8d4e-5434e9957f0a">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br /> 
+4.  Create an Admin and Normal User Account in AD.  In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”.
 </p>
-<br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
