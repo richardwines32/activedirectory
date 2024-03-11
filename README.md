@@ -122,7 +122,7 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 
 
 <p>
-<img width="1512" alt="Screenshot 2024-03-11 at 3 13 39 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/2d26e3e3-8114-40b9-83e3-fea8628b02fa">
+<img width="1512" alt="Screenshot 2024-03-11 at 3 25 57 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/160a9367-e5cb-4722-8c03-cca881f8067f">
 </p>
 <p>
 <br /> 
