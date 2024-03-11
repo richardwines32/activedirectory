@@ -211,13 +211,12 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" alt="Screenshot 2024-03-11 at 5 33 41 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/ea1e2705-10dd-4994-83c1-fb49ffa67cc3">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br /> 
+7C.  Attempt to log into Client-1 with one of the accounts (take note of the password in the script).  Finish.
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
