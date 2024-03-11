@@ -164,12 +164,12 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1512" alt="Screenshot 2024-03-11 at 4 10 03 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/ec447b25-f01e-48e9-bf7b-3df3697770e7">
+ </p>
+ <br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5A.  From the Azure Portal, restart Client-1.
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
