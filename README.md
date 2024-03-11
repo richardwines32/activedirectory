@@ -189,8 +189,11 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 <p>
 <img width="1512" alt="Screenshot 2024-03-11 at 5 06 42 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/b5849186-e96d-402e-800d-ebf58a3f3c25">
 </p>
+
+<br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7.  Create a bunch of additional users and attempt to log into client-1 with one of the users.  Login to DC-1 as jane_admin.  Open PowerShell_ise as an administrator.  Create a new File and use the script.
+
 </p>
 <br />
 
