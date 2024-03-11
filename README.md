@@ -133,9 +133,9 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 <img width="1512" alt="Screenshot 2024-03-11 at 3 17 30 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/1e099d3d-5cd5-4312-b58a-f77e4387b4cf">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br /> 
+4B.  Create a new employee named “Jane Doe” (same password) with the username of “jane_admin”.
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
