@@ -192,7 +192,7 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 
 <br />
 <p>
-7.  Create a bunch of additional users and attempt to log into client-1 with one of the users.  Login to DC-1 as jane_admin.  Open PowerShell_ise as an administrator.  Create a new File and use the script.
+7.  Create a bunch of additional users and attempt to log into client-1 with one of the users.  To do this login to DC-1 as jane_admin.  Open PowerShell_ise as an administrator.  Create a new File and use the script.
 
 </p>
 <p>
@@ -203,12 +203,12 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 7A.  Run the script and observe the accounts being created.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" alt="Screenshot 2024-03-11 at 5 30 29 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/d601d199-8f0f-4236-ae78-3afd19eb2a88">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br /> 
+7B.  When finished, open ADUC and observe the accounts in the appropriate OU. 
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
