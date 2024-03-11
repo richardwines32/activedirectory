@@ -195,12 +195,11 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 7.  Create a bunch of additional users and attempt to log into client-1 with one of the users.  Login to DC-1 as jane_admin.  Open PowerShell_ise as an administrator.  Create a new File and use the script.
 
 </p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" alt="Screenshot 2024-03-11 at 5 22 23 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/972f4237-d836-48e8-997c-9ae9f4fad426">
 </p>
 <p>
+<br /> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
