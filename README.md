@@ -152,17 +152,16 @@ Notice the ping is now getting a response after configuring DC-1's firewall.
 <br />
 <p>
 4D.  Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”.  Use jane_admin as your admin account from now on.
-
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1512" alt="Screenshot 2024-03-11 at 3 47 16 PM" src="https://github.com/richardwines32/activedirectory/assets/162821778/a69a9724-896d-45e1-b719-02278d870e85">
 </p>
 <br />
+<p>
+5.  Join Client-1 to your domain (mydomain.com).  From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address.
+</p>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
